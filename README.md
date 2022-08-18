@@ -11,3 +11,6 @@ _**Additional features not required by the challenge:**_
 * Solution searches for horizontal, vertical, and diaganol chains.
 * Solution allows user to enter custom grid size, rather than producing a square grid from input
 * Solution returns index, direction, and length (to aid with very large grids)
+
+
+### Adding something new to teach how GIT works
