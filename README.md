@@ -14,3 +14,4 @@ _**Additional features not required by the challenge:**_
 
 
 ### Adding something new to teach how GIT works
+### Adding comment for GIT understanding
